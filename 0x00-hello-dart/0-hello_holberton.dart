@@ -1,4 +1,4 @@
-main(){
-    print('Hello Holberton!');
+void main(){
+    print('Hello Holberton!\n');
 }
 
