@@ -37,3 +37,4 @@ String longestPalindrome(String s) {
   }
   return longest != '' ? longest : 'none';
 }
+
